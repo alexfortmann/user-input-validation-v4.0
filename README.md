@@ -27,7 +27,7 @@ age = user_int("Enter your age:", 0, 120)
 color = user_list("Choose your favorite color:", ['Red', 'Blue', 'Green'])
 ```
 
-## Erorr Feedback
+## Error Feedback
 In all cases of invalid input, the functions will loop until valid input is provided:
 
 ### user_bool:
@@ -95,4 +95,4 @@ There is currently no license for this project. But I am planning to update it w
 ## Author
 Written by Alex Fortmann.
 
-Version 4.0. - Copyright (c) 2024 Alex Fortmann. All rights reserved.
+Version 4.0 - Copyright (c) 2024 Alex Fortmann. All rights reserved.
